@@ -13,7 +13,7 @@ export default function Footer() {
           <FolderGit2 size={18} aria-hidden="true" />
         </a>
         <a
-          href="https://www.linkedin.com/in/shrejan-kotyan"
+          href="https://www.linkedin.com/in/Shrejan"
           target="_blank"
           rel="noreferrer"
           aria-label="LinkedIn"
